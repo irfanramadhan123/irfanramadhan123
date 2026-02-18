@@ -1,5 +1,5 @@
 <h2 align="left">Halo Halo</h2>
-
+![irfan ramadhan](img/github-header-banner.jpg)
 ###
 
 <p align="left">Saya Irfan, seorang mahasiswa Teknik Informatika, Institut Teknologi Sumatera<br>lagi belajar..</p>
